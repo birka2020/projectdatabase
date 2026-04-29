@@ -1,0 +1,20 @@
+--SELECT * FROM cars
+--SELECT * FROM model
+--SELECT * FROM buyers
+--SELECT name, age FROM buyers WHERE age < 30;
+--SELECT name, age FROM buyers WHERE age < 20;
+--SELECT  age FROM buyers;
+--SELECT name FROM buyers;
+--SELECT name FROM model;
+--SELECT power FROM model;
+--SELECT money FROM model;
+--SELECT country FROM cars;
+--SELECT year FROM cars
+--SELECT name FROM cars
+--SELECT colors FROM cars
+--SELECT * FROM buyers WHERE name = 'Артём'
+--SELECT * FROM cars WHERE colors = 'Мятный'
+--SELECT * FROM cars WHERE colors = 'Красный'
+--SELECT * FROM cars WHERE country = 'Германия'
+--SELECT year FROM cars WHERE year < 2020;
+--SELECT year FROM cars WHERE year < 2000;
