@@ -1,0 +1,26 @@
+--SELECT name FROM cars WHERE country IN('Германия')
+--SELECT name FROM cars WHERE year IN(1900,1990)
+--SELECT name FROM cars WHERE year IN(2006,2007,2010)
+--SELECT name from model where power in(600, 625)
+--SELECT name from model where power in(600, 625)
+--SELECT name FROM cars WHERE colors IN('Мятный')
+--SELECT name FROM cars WHERE colors IN('Красный')
+--SELECT name FROM cars WHERE year BETWEEN 2006 AND 2010
+--SELECT name FROM cars WHERE year BETWEEN 2006 AND 2020
+--SELECT name FROM model WHERE power BETWEEN 500 AND 625
+--SELECT name FROM model WHERE power BETWEEN 500 AND 600
+--SELECT name FROM cars WHERE colors BETWEEN 'Красный' AND 'Мятный'
+--SELECT name FROM cars WHERE colors BETWEEN 'Синий' AND 'Голубой'
+--SELECT name FROM model WHERE money BETWEEN 3200000 AND 2700000
+--SELECT name FROM cars WHERE year = 2000 AND country = 'Германия'
+--SELECT name FROM cars WHERE year = 2005 AND colors = 'Красный'
+--SELECT name FROM model WHERE power = 612 AND money = '3200000'
+--SELECT name FROM cars WHERE year = 2000 OR country = 'Германия'
+--SELECT name FROM cars WHERE year = 2005 OR colors = 'Красный'
+--SELECT name FROM model WHERE power = 612442 OR money = '3200000'
+--SELECT name FROM cars WHERE country NOT country = 'Германия'
+--
+--
+--SELECT name FROM cars WHERE year is NULL
+--SELECT name FROM model WHERE power is NULL
+--SELECT name FROM cars WHERE colors is NULL
